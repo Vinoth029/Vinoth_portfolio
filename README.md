@@ -14,7 +14,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 
 ### [Gesture Recognizer](https://github.com/Vinoth029/CNNGestureRecognizer.git)
 
-Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
+Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCv
 
 Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
 
